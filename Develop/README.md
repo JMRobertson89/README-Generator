@@ -1,45 +1,45 @@
 # README Generator
 
-An application, created with Node.js, that creates a professional README file. The user is prompted and a README.md file is created based on the user's inputs
+![License](https://img.shields.io/badge/license-MIT-blue)
 
+## Description
+    An application, created with Node.js, that creates a professional README.md file based on user inputs
 
-## User Story
+## Table of Contents
+-[Description](#description)
 
-```md
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
+-[Installation](#installation)
 
-```
+-[Usage](#usage)
 
-## Acceptance Criteria
+-[Credits](#credits)
 
-```md
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+-[Tests](#tets)
 
-```
-
-## Demonstration
-
-<video width="960" height="720" controls src="./Assets/README.mp4">
+-[Contact](#contact)
 
 
 
+## Installation
+Install Node.js and the Inquirer npm  package
 
-## Live Link
+## Usage
+
+Run the application in Node.js and answer the prompts
+
+<video width="960" height="520" controls src="./Assets/README.mp4"></video>
 
 
+## Credits
+
+undefined
+
+## Tests
+
+none
+
+## Contact
+
+[JMRobertson89](https://github.com/JMRobertson89)
+
+Email Joshua Robertson at joshrobertson1618@gmail.com
