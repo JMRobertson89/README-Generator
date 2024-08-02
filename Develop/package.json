@@ -1,0 +1,22 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMRobertson89/README-Generator.git"
+  },
+  "author": "Joshua Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMRobertson89/README-Generator/issues"
+  },
+  "homepage": "https://github.com/JMRobertson89/README-Generator#readme",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
